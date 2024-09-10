@@ -1,5 +1,6 @@
 # Zomato-analysis
 Zomato Dataset - Exploratory Data Analysis (EDA) 🍽️📊
+
 This repository contains an exploratory data analysis (EDA) of the Zomato dataset using Python, aimed at uncovering key insights into customer ratings, popular cuisines, country-wise usage, and online delivery trends.
 
 Key Analyses:
